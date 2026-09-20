@@ -2,3 +2,4 @@ ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 1,task,b0b74bd,closed,Task A,,Qingyun Li,9/13,9/13,9/13,
 2,task,6422c8f5,closed,Task A,,Peter Oh,9/14,9/14,9/14,
 3,task,0bf2ff3,closed,Task B,,Qingyun Li,9/15,9/15,9/15,
+4,task,bf55d5e,closed,Task C,,Qingyun Li,9/20,9/20,9/20,
