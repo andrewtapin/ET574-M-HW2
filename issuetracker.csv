@@ -7,3 +7,4 @@ ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 6,task,6fbeab2,closed,Task B,,Peter Oh,9/27,9/24,9/24,
 7,task,1fa75bbc,closed,Task B,,Andrew Kirk,9/27,9/25,9/25,
 8,task,afe8383,closed,Task C,,Peter Oh,9/27,9/25,9/25,
+9,task,9b4607df,closed,Task A,,Andrew Kirk,9/27,9/26,9/26,
